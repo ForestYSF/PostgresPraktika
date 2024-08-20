@@ -1,0 +1,8 @@
+# temp_conv.control
+comment = 'Temperature conversion functions'
+
+default_version = '1.0'
+
+relocatable = true
+
+module_pathname = '$libdir/temp_conv'
